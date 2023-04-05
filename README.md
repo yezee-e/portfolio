@@ -22,10 +22,12 @@
 밀리의 서재는 국내 최대 전자책플랫폼으로  유저를 위한 깔끔한 UI와 편리한 서비스를 많이 제공하고 있습니다     
 또 B2B와 B2C영역 모두를 경험해볼 수 있는 좋은 모델이라고 생각했습니다  
 
-**개발기간:** 2022.11.14-2022.11.25     
+**개발기간**     
+2022.11.14-2022.11.25     
 **기술스택**     
 프론트 3명 - JavaScript(ES6+), React, SCSS, Axios     
 백엔드 3명 - Node.js, Express, typeORM, Mysql, Axios     
+
 [프로젝트상세설명](https://github.com/yezee-e/justcode-7-2nd-millieIslibrary-front)
 
 <br/>
@@ -35,7 +37,9 @@
 트렐로를 통해 칸반보드를 처음 사용해 보았습니다. 하루 단위로 개인의 일과를 나열하는 나만의 트렐로가 있으면 한눈에 파악하기 편리할거 같다는 생각에서      
 미니 칸반보드를 제작하였습니다.
 
-**기술스택**  javaScript(ES6+),React,SCSS,Axios     
+**기술스택**      
+javaScript(ES6+),React,SCSS,Axios     
+
 [프로젝트상세설명](https://github.com/yezee-e/kanban-board)
 
 
