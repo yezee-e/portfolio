@@ -39,4 +39,3 @@
 [프로젝트상세설명](https://github.com/yezee-e/kanban-board)
 
 
-
