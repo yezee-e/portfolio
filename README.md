@@ -33,6 +33,18 @@
 
 <br/>
 
+### 구멍마켓       
+직관적인 UI와 인터넷 쇼핑몰 자체로서의 기능이 가장 충실하다고 느껴서 첫 프로젝트로 선정하였습니다
+
+**개발기간**        
+2022.10.31 - 2022.11.11       
+**참여인원**        
+프론트4, 백엔드3      
+**기술스택**      
+javascript(ES6), React, SCSS        
+
+[프로젝트상세설명](https://velog.io/@yezee?tag=%EA%B5%AC%EB%A9%8D%EB%A7%88%EC%BC%93%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 ## 📌 toy Projects
 ### 토킹 칸반보드    
 **URL** https://talking-kanbanboard.herokuapp.com/   
