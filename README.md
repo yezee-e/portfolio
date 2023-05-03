@@ -47,13 +47,13 @@ javascript(ES6), React, SCSS
 
 ## 📌 toy Projects
 ### 토킹 칸반보드    
-**URL** https://talking-kanbanboard.herokuapp.com/   
+**URL** https://talking-kanban-board.netlify.app/  
 트렐로를 통해 칸반보드를 처음 사용해 보았습니다. 하루 단위로 개인의 일과를 나열하는 나만의 트렐로가 있으면 한눈에 파악하기 편리할거 같다는 생각에서            
 미니 칸반보드를 제작하였습니다.
 
 **기술스택**      
-javaScript(ES6+),React,SCSS,Axios     
+TypeScript,javaScript(ES6+),React,Recoil,styled-component   
 
-[프로젝트상세설명](https://github.com/yezee-e/kanban-board)
+[프로젝트상세설명](https://github.com/yezee-e/kanban-boards)
 
 
