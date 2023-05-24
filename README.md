@@ -52,7 +52,7 @@ Front(4), Back(3)
 **기술스택**      
 javascript(ES6), React, SCSS        
 
-[프로젝트상세설명](https://velog.io/@yezee?tag=%EA%B5%AC%EB%A9%8D%EB%A7%88%EC%BC%93%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[프로젝트상세설명](https://velog.io/@yezee/1%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B5%AC%EB%A9%8D%EB%A7%88%EC%BC%93)
 
 
 
