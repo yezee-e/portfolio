@@ -4,7 +4,6 @@
 <br/>
 
 ## 📌 Intro
-함께 일할 맛 나는 개발자 황예지입니다.     
 이전에는 운동사로서 사람들의 몸을 유지보수하여 건강한 사람을 만들어내는 일을 하였습니다. 앞으로는 코드를 잘 유지보수하여 필요한 서비스를 제공하는 개발자가 되고 싶습니다. 
 새로운 지식을 습득하고 적용하는 과정을 좋아하고 코드가 간결해져서 가독성이 높아질 때 행복을 느낍니다.     
   
@@ -36,8 +35,8 @@ TypeScript,javaScript(ES6+),React,Recoil,styled-component
 **개발기간**     
 2022.11.14-2022.11.25     
 **기술스택**     
-프론트 3명 - JavaScript(ES6+), React, SCSS, Axios     
-백엔드 3명 - Node.js, Express, typeORM, Mysql, Axios     
+Front(3명) - JavaScript(ES6+), React, SCSS, Axios     
+Back(3명) - Node.js, Express, typeORM, Mysql, Axios     
 
 [프로젝트상세설명](https://github.com/yezee-e/justcode-7-2nd-millieIslibrary-front)
 
@@ -49,7 +48,7 @@ TypeScript,javaScript(ES6+),React,Recoil,styled-component
 **개발기간**        
 2022.10.31 - 2022.11.11       
 **참여인원**        
-프론트4, 백엔드3      
+Front(4), Back(3)      
 **기술스택**      
 javascript(ES6), React, SCSS        
 
